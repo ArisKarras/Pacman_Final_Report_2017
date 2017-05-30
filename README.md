@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Τεχνολογία Λογισμικού
 
-You can use the [editor on GitHub](https://github.com/ArisKarras/Pacman_Final_Report_2017/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 1)	Δήλωση και δέσμευση θέματος
+*	**Ονοματεπώνυμο:** Αριστείδης Καρράς
+*	**Αριθμός Μητρώου:** Π2013020
+*	**Θέμα εργασίας:** "Δημιουργία Pacman"
+*	**[Προσωπικό αποθετήριο κώδικα](https://github.com/ArisKarras/pacman "Aris's Repository")**
+*	**[Εκτελέσιμο](https://ariskarras.github.io/pacman/pacman.html "Aris's Pacman")**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 2)	Aρχικός σχεδιασμός εφαρμογής
+### Ζητούμενα:
+  *	Αντί για τον Pacman χρησιμοποίησε έναν άλλο χαρακτήρα για πρωταγωνιστή του παιχνιδιού.
+  *	Αντί ο πρωταγωνιστής να μαζεύει μόνο dots θα μπορούσε να μαζεύει διάφορα αντικείμενα (κέρματα, λουλούδια, φρούτα κτλ).
+  *	Δημιούργησε μια νέα πίστα για το παιχνίδι χρησιμοποιώντας το Tiled.
 
-### Markdown
+### Υλοποίηση:
+  * Αντικατέστησα τον χαρακτήρα του Pacman με τον βασικό χαρακτήρα/πρωταγωνιστή **Luke Skywalker** των ταινιών **Star Wars**.
+  
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/jedi2.png "Luke")
+  * Πλέον, ο πρωταγωνιστής του παιχνιδιού δεν μαζεύει dots, αλλά μαζεύει κρυστάλλους (crystals), όπως και στις ταινίες **Star Wars** όπου με την βοήθεια τους γίνεται και η παρασκευή των **lightsabers**. Παρόλα αυτά, επέλεξα για λόγους καλαισθησίας ο **Luke** να κρατάει ήδη το **blue lightsaber** του, αλλά να μην μπορεί να νικήσει ακόμα τους εχθρούς χωρίς την κατάλληλη συλλογή άλλων items (τα οποία θα προστεθούν στα επόμενα Παραδοτέα).    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+  ![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/crystal1.png "Crystals")
+  * Δημιούργησα μια νέα πίστα με βάση την πίστα που υπήρχε στον φάκελο assets.
+  
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/pacman-map2.png "Map")
 
-```markdown
-Syntax highlighted code block
+### Αποτέλεσματα:
+  * Τέλος παραθέτω ένα τελικό screenshot του παιχνιδιού, με βάση τις προδιαγραφές του 2ου Παραδοτέου.
 
-# Header 1
-## Header 2
-### Header 3
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/map.png "Screenshot")
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ArisKarras/Pacman_Final_Report_2017/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 3) Τελικό προσχέδιο έργου για σχολιασμό και βελτιώσεις 
+### Ζητούμενα:
+  * Προσθήκη αντικειμένου που εμφανίζεται και μετά από κάποιο χρονικό διάστημα εξαφανίζεται.
+  * Προσθήκη score, bonus και ζωών.
+  * Προσθήκη ήχων.
+  
+ ### Υλοποίηση:
+  * Πρόσθεσα έναν κόκκινο σταυρό ως το αντικείμενο που εμφανίζεται και εξαφανίζεται μετά από κάποιο χρονικό διάστημα. Προς το παρόν δεν έχω ορίσει κάποια λειτουργικότητα σε αυτό. Θα προστεθεί στο επόμενο παραδοτέο.
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/cross2.png "Cross")
+  * Πρόσθεσα **Score** στο παιχνίδι, όπου αυξάνεται κατά 10 πόντους, όταν ο παίκτης μαζέψει έναν κρύσταλλο. 
+  * Πρόσθεσα το **Bonus**, όπου απεικονίζεται από 2 συγκρουόμενα **lightsabers** (**Blue lightsaber** & **Red lightsaber**). Το **Bonus** αυξάνεται επίσης κατά 10 πόντους, όταν ο παίκτης συλλέξει το συγκεκριμένο αντικείμενο. Επίσης, επέλεξα οι πόντοι του **Bonus**, να προστίθενται και στο συνολικό **Score**.
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/sword3.png "Lightsabers")
+  * Πρόσθεσα επίσης 3 ζωές, οι οποίες θα αποκτήσουν λειτουργικότητα με το επόμενο παραδοτέο.
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/lifes2.png "Hearts")
+  * Τέλος, όσον αφορά τους ήχους, έχω επιλέξει 3 διαφορετικούς.
+    1. Επέλεξα το κλασσικό theme song του**Star Wars** να παίζει σε όλη την διάρκεια του παιχνιδιού.
+    2. Επέλεξα, όταν συλλέγεται ένας κρύσταλλος, να αναπαράγεται ένας κλασσικός ήχος από **lightsabers**.
+    3. Και τέλος, και όταν γίνεται συλλογή του **Bonus**, να αναπαράγεται ένας κλασσικός ήχος από **Blasters**(τύπος όπλου) βασισμένα στην ταινία.  
+  * Επίσης, πρόσθεσα φωτογραφία στο background του παιχνιδιού που μοιάζει με διάστημα.
+ 
+### Αποτέλεσματα:
+  
+![alt text](https://github.com/ArisKarras/pacman/blob/master/assets/paradoteo3screen.png "Screenshot")
