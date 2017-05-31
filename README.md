@@ -27,14 +27,14 @@
   
   * Δημιούργησα μια νέα πίστα με βάση την πίστα που υπήρχε στον φάκελο assets.
   
- <p align="left">
+ <p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26609060/9a6bb15e-45a7-11e7-8b71-e64e80445cf9.png">
  </p>
 
 ### Αποτέλεσματα:
   * Τέλος παραθέτω ένα τελικό screenshot του παιχνιδιού, με βάση τις προδιαγραφές του 2ου Παραδοτέου.
 
-<p align="left">
+<p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26609076/b6931e08-45a7-11e7-8562-800b112118ad.png">
 </p>
 
@@ -69,6 +69,6 @@
  
 ### Αποτέλεσματα:
   
-<p align="left">
+<p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26609133/291348fe-45a8-11e7-8a34-c6cd271086ba.png">
 </p>
