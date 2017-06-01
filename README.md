@@ -75,7 +75,11 @@
 <p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26609133/291348fe-45a8-11e7-8a34-c6cd271086ba.png">
 </p>
+
  # Διαδικασία Ανάπτυξης
+ 
  # Μελλοντικές Επεκτάσεις
+ 
  # Συμπεράσματα
+ 
  # Αναφορές
