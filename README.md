@@ -84,13 +84,13 @@
 # Συμπεράσματα
  
 # Αναφορές
-**[Γραφικά Χαρακτήρα Παιχνιδιού](https://gr.pinterest.com/pin/137148751122666263/")**
-**[Γραφικά Εχθρού](http://tsgk.captainn.net/index.php?p=search&q=darth+vader")**
-**[Γραφικά Κρυστάλλων](http://finalfantasy.wikia.com/wiki/File:FFI_PSP_Crystal.png")**
-**[Γραφικά Σταυρού](http://www.purezc.net/index.php?page=tiles&id=592")**
-**[Γραφικά Bonus](http://www.purezc.net/index.php?page=tiles&id=592")**
-**[Γραφικά Ζωών](http://makepixelart.com/peoplepods/files/images/12067.resized.png")**
-**[Γραφικά αντικειμένου Teleporting](http://www.purezc.net/index.php?page=tiles&id=592")**
-**[Κύριος Ήχος Παιχνιδιού](http://www.soundboard.com/sb/starwars")**
-**[Ήχος Συλλογής Κρυστάλλων - Lightsabers](http://www.soundboard.com/sb/starwars")**
-**[Ήχος Συλλογή Bonus- Blasters](http://www.soundboard.com/sb/starwars")**
+* **[Γραφικά Χαρακτήρα Παιχνιδιού](https://gr.pinterest.com/pin/137148751122666263/")**
+* **[Γραφικά Εχθρού](http://tsgk.captainn.net/index.php?p=search&q=darth+vader")**
+* **[Γραφικά Κρυστάλλων](http://finalfantasy.wikia.com/wiki/File:FFI_PSP_Crystal.png")**
+* **[Γραφικά Σταυρού](http://www.purezc.net/index.php?page=tiles&id=592")**
+* **[Γραφικά Bonus](http://www.purezc.net/index.php?page=tiles&id=592")**
+* **[Γραφικά Ζωών](http://makepixelart.com/peoplepods/files/images/12067.resized.png")**
+* **[Γραφικά αντικειμένου Teleporting](http://www.purezc.net/index.php?page=tiles&id=592")**
+* **[Κύριος Ήχος Παιχνιδιού](http://www.soundboard.com/sb/starwars")**
+* **[Ήχος Συλλογής Κρυστάλλων - Lightsabers](http://www.soundboard.com/sb/starwars")**
+* **[Ήχος Συλλογή Bonus- Blasters](http://www.soundboard.com/sb/starwars")**
