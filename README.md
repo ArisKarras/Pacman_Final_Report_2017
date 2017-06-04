@@ -86,10 +86,10 @@
 # Αναφορές
 * **[Γραφικά Χαρακτήρα Παιχνιδιού](https://www.google.gr/imgres?imgurl=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2Fc4%2Fbe%2Fe3%2Fc4bee33105cf8bc47ce864ad1b01ebfb.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F137148751122666263%2F&docid=YScE4W00G6USVM&tbnid=YBAv_ZlIJLzzGM%3A&vet=10ahUKEwi-v7aDkKXUAhXOLlAKHY6fBEMQMwgwKA4wDg..i&w=409&h=347&bih=950&biw=1920&q=starwas%20%20sprite%20sheet&ved=0ahUKEwi-v7aDkKXUAhXOLlAKHY6fBEMQMwgwKA4wDg&iact=mrc&uact=8#h=347&vet=10ahUKEwi-v7aDkKXUAhXOLlAKHY6fBEMQMwgwKA4wDg..i&w=409")**
 * **[Γραφικά Εχθρού](http://tsgk.captainn.net/index.php?p=search&q=darth+vader")**
-* **[Γραφικά Κρυστάλλων](http://finalfantasy.wikia.com/wiki/File:FFI_PSP_Crystal.png")**
+* **[Γραφικά Κρυστάλλων](http://finalfantasy.wikia.com/wiki/File:FFI_PSP_Crystal.png)**
 * **[Γραφικά Σταυρού](http://www.purezc.net/index.php?page=tiles&id=592")**
 * **[Γραφικά Bonus](http://www.purezc.net/index.php?page=tiles&id=592")**
-* **[Γραφικά Ζωών](http://makepixelart.com/peoplepods/files/images/12067.resized.png")**
+* **[Γραφικά Ζωών](http://makepixelart.com/peoplepods/files/images/12067.resized.png)**
 * **[Γραφικά αντικειμένου Teleporting](http://www.purezc.net/index.php?page=tiles&id=592")**
 * **[Κύριος Ήχος Παιχνιδιού](http://www.soundboard.com/sb/starwars")**
 * **[Ήχος Συλλογής Κρυστάλλων - Lightsabers](http://www.soundboard.com/sb/starwars")**
