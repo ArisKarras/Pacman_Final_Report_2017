@@ -1,3 +1,7 @@
+<p align="center">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26778214/06444900-49e9-11e7-8db9-b6a4d1c05c6c.png">
+</p>
+
 # Τεχνολογία Λογισμικού 
 
 # 	Εισαγωγή
