@@ -80,6 +80,18 @@
       <img src="https://cloud.githubusercontent.com/assets/17282953/26609133/291348fe-45a8-11e7-8a34-c6cd271086ba.png">
 </p>
 
+<p align="center">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26828915/1a55a216-4acc-11e7-9e2c-be37494a8c60.png">
+</p>
+
+<p align="center">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26828970/57d212fa-4acc-11e7-83a2-fa6639b96c07.png">
+</p>
+
+<p align="center">
+      <img src="https://cloud.githubusercontent.com/assets/17282953/26829001/7aa029a2-4acc-11e7-93e5-c4fd07dcdb8a.png">
+</p>
+
 
 # Διαδικασία Ανάπτυξης
  
