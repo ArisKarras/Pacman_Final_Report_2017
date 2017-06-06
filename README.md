@@ -97,14 +97,14 @@
   * Δυνατότητα teleport για τον πρωταγωνιστή σε συγκεκριμένα σημεία της πίστας.
 ### Υλοποίηση: 
   * Βασισμένος στις ταινίες Star Wars, επέλεξα να εισάγω για εχθρό τον **Darth Vader** που στην πραγματικότητα αποτελεί έναν από τους κακούς χαρακτήρες των ταινιών. Συγκεκριμένα, επέλεξα 5 φορές να εμφανίζεται ο **Darth Vader** στο παιχνίδι.
- <p align="left">
+ <p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26828915/1a55a216-4acc-11e7-9e2c-be37494a8c60.png">
 </p>
 
   * Ο χαρακτήρας με την συλλογή του Bonus, γίνεται ανίκητος για 10 δευτερόλεπτα και μπορεί να εξουδετερώσει τους εχθρούς του παιχνιδιού.
   
   * Παρέχεται δυνατότητα **teleport** για τον πρωταγωνιστή του παιχνιδιού, όταν έρθει σε επαφή με το παρακάτω πράσινο εικονίδιο:
-   <p align="left">
+   <p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26829001/7aa029a2-4acc-11e7-93e5-c4fd07dcdb8a.png">
 </p>
 
@@ -112,11 +112,11 @@
   
 ### Τελικά Αποτελέσματα:
 
-<p align="left">
+<p align="center">
       <img src="https://cloud.githubusercontent.com/assets/17282953/26828970/57d212fa-4acc-11e7-83a2-fa6639b96c07.png">
 </p>
 
-<p align="left">
+<p align="center">
       <img src="https://user-images.githubusercontent.com/17282953/26849264-29f5d714-4b0c-11e7-93dd-dd49ddfe6cc3.png">
 </p>
 
